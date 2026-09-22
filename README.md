@@ -4,5 +4,6 @@ My personal contribution to my team's project (formulating the mathematical mode
 
 # What it does
 
-Looks at data from >300 solar panel locations in Massachusetts. Has lattice grid of >600 potential solar panel recycling facility construction locations. 
-Determines where recycling facilities should be constructed, what size they should be, and in what years they should be active using an exponential cost-decay model.
+Looks at data from >300 solar panel locations in Massachusetts. Has lattice grid of ~100 potential solar panel recycling facility construction locations spaced evenly across MA.
+Determines where recycling facilities should be constructed, what size they should be, and in what years they should be active using an exponential cost-decay model. See project
+description for more information.
